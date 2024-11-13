@@ -53,7 +53,7 @@ conda activate {name}
 
 
 ```shell 
-!pip install install torch==1.11 torchvision==0.12 torchtext==0.12 torchaudio==0.11
+!pip install torch==1.11 torchvision==0.12 torchtext==0.12 torchaudio==0.11
 ```
 
 Install other python package.   
